@@ -1,1 +1,1 @@
-# duogu.deve.io
+# syduogu.github.io
